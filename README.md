@@ -1,8 +1,9 @@
-# My First Fork
+# My first work
 Fork this repository and make changes to the README
 
-Name:
+Name:Brian Andika
 
-Instituition:
+Instituition:JKUAT
 
-i am at the OpenScienceKE to ... 
+i am at the OpenScienceKE to learn new things
+![Germanshepard](https://www.rover.com/blog/german-shepherd-dog-names/)
